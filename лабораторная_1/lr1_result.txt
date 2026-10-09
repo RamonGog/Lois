@@ -1,0 +1,101 @@
+DEL | 4 | {
+STR | 1 | "squadName"
+DEL | 4 | :
+STR | 1 | "Super hero squad"
+DEL | 4 | ,
+STR | 1 | "homeTown"
+DEL | 4 | :
+STR | 1 | "Metro City"
+DEL | 4 | ,
+STR | 1 | "formed"
+DEL | 4 | :
+NUM | 2 | 2016
+DEL | 4 | ,
+STR | 1 | "secretBase"
+DEL | 4 | :
+STR | 1 | "Super tower"
+DEL | 4 | ,
+STR | 1 | "active"
+DEL | 4 | :
+KW | 3 | true
+DEL | 4 | ,
+STR | 1 | "members"
+DEL | 4 | :
+DEL | 4 | [
+DEL | 4 | {
+STR | 1 | "name"
+DEL | 4 | :
+STR | 1 | "Molecule Man"
+DEL | 4 | ,
+STR | 1 | "age"
+DEL | 4 | :
+NUM | 2 | 29
+DEL | 4 | ,
+STR | 1 | "secretIdentity"
+DEL | 4 | :
+STR | 1 | "Dan Jukes"
+DEL | 4 | ,
+STR | 1 | "powers"
+DEL | 4 | :
+DEL | 4 | [
+STR | 1 | "Radiation resistance"
+DEL | 4 | ,
+STR | 1 | "Turning tiny"
+DEL | 4 | ,
+STR | 1 | "Radiation blast"
+DEL | 4 | ]
+DEL | 4 | }
+DEL | 4 | ,
+DEL | 4 | {
+STR | 1 | "name"
+DEL | 4 | :
+STR | 1 | "Madame Uppercut"
+DEL | 4 | ,
+STR | 1 | "age"
+DEL | 4 | :
+NUM | 2 | 39
+DEL | 4 | ,
+STR | 1 | "secretIdentity"
+DEL | 4 | :
+STR | 1 | "Jane Wilson"
+DEL | 4 | ,
+STR | 1 | "powers"
+DEL | 4 | :
+DEL | 4 | [
+STR | 1 | "Million tonne punch"
+DEL | 4 | ,
+STR | 1 | "Damage resistance"
+DEL | 4 | ,
+STR | 1 | "Superhuman reflexes"
+DEL | 4 | ]
+DEL | 4 | }
+DEL | 4 | ,
+DEL | 4 | {
+STR | 1 | "name"
+DEL | 4 | :
+STR | 1 | "Eternal Flame"
+DEL | 4 | ,
+STR | 1 | "age"
+DEL | 4 | :
+NUM | 2 | 1000000
+DEL | 4 | ,
+STR | 1 | "secretIdentity"
+DEL | 4 | :
+STR | 1 | "Unknown"
+DEL | 4 | ,
+STR | 1 | "powers"
+DEL | 4 | :
+DEL | 4 | [
+STR | 1 | "Immortality"
+DEL | 4 | ,
+STR | 1 | "Heat Immunity"
+DEL | 4 | ,
+STR | 1 | "Inferno"
+DEL | 4 | ,
+STR | 1 | "Teleportation"
+DEL | 4 | ,
+STR | 1 | "Interdimensional travel"
+DEL | 4 | ]
+DEL | 4 | }
+DEL | 4 | ]
+DEL | 4 | }
