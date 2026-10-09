@@ -1,0 +1,13 @@
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": not active
+  ,
+  "members": [
+      "name1",
+      "name2",
+      "name3"
+  ]
+}
