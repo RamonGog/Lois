@@ -1,0 +1,37 @@
+ проверка файла: lr3.1.json 
+ОШИБКА СИНТАКСИСА: В объекте пропущена запятая или закрывающая скобка '}', найден символ '"'
+ошибка: 3
+     1: {
+     2:   "squadName": "Super hero squad"
+---> 3:   "homeTown": "Metro City",
+     4:   "formed": 2016,
+     5:   "secretBase": "Super tower",
+
+ проверка файла: lr3.2.json 
+ОШИБКА СИНТАКСИСА: В объекте пропущена запятая или закрывающая скобка '}', найден символ 'f'
+ошибка: 3
+     1: {
+     2:   "squadName": "Super hero squad",
+---> 3:   "homeTown": "Metro City,
+     4:   "formed": 2016,
+     5:   "secretBase": "Super tower",
+
+ проверка файла: lr3.3.json 
+ОШИБКА СИНТАКСИСА: Недопустимая константа 'not'. Разрешены только true, false, null
+ошибка: 6
+     4:   "formed": 2016,
+     5:   "secretBase": "Super tower",
+---> 6:   "active": not active
+     7:   ,
+     8:   "members": [
+
+ проверка файла: lr3.4.json 
+ОШИБКА СИНТАКСИСА: После ключа ожидался символ ':', но обнаружен '='
+ошибка: 2
+     1: {
+---> 2:   "squadName" = "Super hero squad",
+     3:   "homeTown" = "Metro City",
+     4:   "formed" = 2016,
+
+ проверка файла: lr3.5.json 
+ Файл lr3.5.json полностью валиден
